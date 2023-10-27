@@ -1,4 +1,3 @@
-var canvas
 let bombSound
 function preload(){
 bombSound= loadSound('sounds/bomb2.mp3')
